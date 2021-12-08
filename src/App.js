@@ -1,4 +1,4 @@
-import Shape from "./component.shape";
+import Shape from "./components.shape";
 
 function App() {
   return (
